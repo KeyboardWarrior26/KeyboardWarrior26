@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Thamsanqa Faniso. – Aspiring DevOps & Cloud Support Engineer
 
-<!--
-**KeyboardWarrior26/KeyboardWarrior26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate tech learner transitioning into IT from a non-tech background, with hands-on training in **DevOps tools**, **cloud infrastructure (AWS)**, and **Python scripting**. I hold AWS Cloud Practitioner and Solutions Architect Associate certifications, and I'm currently completing industrial training in DevOps.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- DevOps pipeline projects using Jenkins, Ansible, and Docker
+- Python automation scripts
+- Preparing for **CompTIA Network+**
+- Backend development (Node.js, APIs) with ALX Africa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+- **Cloud**: AWS (EC2, S3, IAM, Lambda)
+- **DevOps**: Git, GitHub, Jenkins, Docker, Ansible, Maven
+- **Scripting**: Python (beginner)
+- **Linux**: CLI tools and scripting
+- **Learning**: Backend (Node.js, Databases)
+
+## 🎯 My Goals
+- Land an **IT support/helpdesk** role to apply my cloud and DevOps skills
+- Build and share hands-on projects (CI/CD pipelines, AWS automation)
+- Grow into a Cloud/DevOps engineer role over time
+
+##📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/thamsanqa-f-316a3b180) – Open to ## 📫 Let's Connectopportunities & networking
+
+*“Learning by doing, growing with purpose.”*
+
